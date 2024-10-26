@@ -4,7 +4,19 @@
 		{
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
-			"files": []
+			"files": [
+				"F:/GameEngines/UnrealEngine/UE_5.4/Engine/Content/BasicShapes/Cube.uasset",
+				"F:/GameProjects/UnrealProjects/lost-shadow/LostShadow/Content/OurContent/Blueprints/PsudeoLightSource.uasset",
+				"F:/GameProjects/UnrealProjects/lost-shadow/LostShadow/Content/OurContent/Blueprints/ShadowObject.uasset",
+				"F:/GameProjects/UnrealProjects/lost-shadow/LostShadow/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/TL/G6CBZTN1YUY3PGAMZSHUZD.uasset",
+				"F:/GameProjects/UnrealProjects/lost-shadow/LostShadow/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/C4/VOI0F9JY588JXOVHFEDL5W.uasset",
+				"F:/GameProjects/UnrealProjects/lost-shadow/LostShadow/Content/ThirdPerson/Blueprints/ShadowObject.uasset",
+				"F:/GameProjects/UnrealProjects/lost-shadow/LostShadow/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/OB/JJJMIDA0WUU2FIXGWG2P5G.uasset",
+				"F:/GameProjects/UnrealProjects/lost-shadow/LostShadow/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/KV/NJO0DGPAIJHW29VHH2COKK.uasset",
+				"F:/GameProjects/UnrealProjects/lost-shadow/LostShadow/Content/ThirdPerson/Blueprints/PsudeoLightSource.uasset",
+				"F:/GameProjects/UnrealProjects/lost-shadow/LostShadow/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/X7/7NH5E3EMVYWLZ0A9967K26.uasset",
+				"F:/GameProjects/UnrealProjects/lost-shadow/LostShadow/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/0R/S1NWO3W4WXBEESEXO7VG0M.uasset"
+			]
 		}
 	]
 }
