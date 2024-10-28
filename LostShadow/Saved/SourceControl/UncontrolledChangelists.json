@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Daniel/Documents/GitHub/lost-shadow/LostShadow/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/5S/VH9GD3OC479WDVONSRXXAM.uasset",
 				"F:/GameEngines/UnrealEngine/UE_5.4/Engine/Content/BasicShapes/Cube.uasset",
 				"F:/GameProjects/UnrealProjects/lost-shadow/LostShadow/Content/OurContent/Blueprints/PsudeoLightSource.uasset",
 				"F:/GameProjects/UnrealProjects/lost-shadow/LostShadow/Content/OurContent/Blueprints/ShadowObject.uasset",
