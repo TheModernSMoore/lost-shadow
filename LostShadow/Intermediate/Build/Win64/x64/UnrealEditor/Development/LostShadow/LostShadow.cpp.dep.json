@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\downloads\\lost-shadow\\lostshadow\\source\\lostshadow\\lostshadow.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\downloads\\lost-shadow\\lostshadow\\intermediate\\build\\win64\\x64\\lostshadoweditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "e:\\downloads\\lost-shadow\\lostshadow\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\lostshadow\\definitions.lostshadow.h",
+            "e:\\downloads\\lost-shadow\\lostshadow\\source\\lostshadow\\lostshadow.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

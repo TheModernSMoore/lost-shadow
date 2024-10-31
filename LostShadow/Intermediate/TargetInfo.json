@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LostShadow",
+			"Path": "..\\Source\\LostShadow.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LostShadowEditor",
+			"Path": "..\\Source\\LostShadowEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

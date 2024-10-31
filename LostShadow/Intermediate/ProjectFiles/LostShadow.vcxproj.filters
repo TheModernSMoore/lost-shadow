@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\LostShadow.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LostShadow.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LostShadowEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\LostShadow">
+      <UniqueIdentifier>{DB9D1AC0-1E80-33AC-93D4-6ECC9AD3BCCC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LostShadow\LostShadow.Build.cs">
+      <Filter>Source\LostShadow</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\LostShadow\LostShadow.cpp">
+      <Filter>Source\LostShadow</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LostShadow\LostShadow.h">
+      <Filter>Source\LostShadow</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\LostShadow\SortCoordsCounterClockwise.h">
+      <Filter>Source\LostShadow</Filter>
+    </ClInclude>
+    <Filter Include="Source\LostShadow\Private">
+      <UniqueIdentifier>{4E2C402A-A861-383C-93D4-09841FFAA9F7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\LostShadow\Private\FINALTEMPINITALCOMMITsortCoords.cpp">
+      <Filter>Source\LostShadow\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\LostShadow\Public">
+      <UniqueIdentifier>{46514D02-A211-3718-AD98-4EAAE4F296A1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\LostShadow\Public\FINALTEMPINITALCOMMITsortCoords.h">
+      <Filter>Source\LostShadow\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

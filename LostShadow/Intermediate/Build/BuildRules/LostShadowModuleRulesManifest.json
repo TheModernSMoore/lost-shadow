@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Downloads\\lost-shadow\\LostShadow\\Source\\LostShadow\\LostShadow.Build.cs",
+		"E:\\Downloads\\lost-shadow\\LostShadow\\Source\\LostShadow.Target.cs",
+		"E:\\Downloads\\lost-shadow\\LostShadow\\Source\\LostShadowEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
