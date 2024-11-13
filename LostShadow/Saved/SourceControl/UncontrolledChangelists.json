@@ -6,6 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Daniel/Documents/GitHub/lost-shadow/LostShadow/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/5S/VH9GD3OC479WDVONSRXXAM.uasset",
+				"C:/Users/Daniel/Documents/GitHub/lost-shadow/LostShadow/Content/Characters/Edison/Materials/Wire.uasset",
+				"C:/Users/Daniel/Documents/GitHub/lost-shadow/LostShadow/Content/Characters/Edison/Materials/Metal.uasset",
+				"C:/Users/Daniel/Documents/GitHub/lost-shadow/LostShadow/Content/Characters/Edison/Materials/Glass.uasset",
+				"C:/Users/Daniel/Documents/GitHub/lost-shadow/LostShadow/Content/Characters/Edison/Materials/Emission.uasset",
+				"C:/Users/Daniel/Documents/GitHub/lost-shadow/LostShadow/Content/Characters/Edison/Meshes/Edison_Skeleton.uasset",
+				"C:/Users/Daniel/Documents/GitHub/lost-shadow/LostShadow/Content/Characters/Edison/Meshes/Edison_PhysicsAsset.uasset",
+				"C:/Users/Daniel/Documents/GitHub/lost-shadow/LostShadow/Content/Characters/Edison/Meshes/Edison.uasset",
 				"F:/GameEngines/UnrealEngine/UE_5.4/Engine/Content/BasicShapes/Cube.uasset",
 				"F:/GameProjects/UnrealProjects/lost-shadow/LostShadow/Content/OurContent/Blueprints/PsudeoLightSource.uasset",
 				"F:/GameProjects/UnrealProjects/lost-shadow/LostShadow/Content/OurContent/Blueprints/ShadowObject.uasset",
