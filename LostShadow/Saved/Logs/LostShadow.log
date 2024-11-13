@@ -1847,3 +1847,124 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.13-00.40.06:043][213]LogPlayLevel: Display: Destroying online subsystem :Context_19
 [2024.11.13-00.40.07:488][286]LogSlate: Window 'Message Log' being destroyed
 [2024.11.13-00.40.07:501][286]LogSlate: Window 'Message Log' being destroyed
+[2024.11.13-00.42.49:834][303]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.11.13-00.42.52:226][303]LogSlate: Window 'Save Content' being destroyed
+[2024.11.13-00.42.52:270][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.13-00.42.52:311][303]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/UC/YTWRZBMUE3AAK7KEBSZENW
+[2024.11.13-00.42.52:311][303]LogSavePackage: Moving '../../../../../../Users/Daniel/Documents/GitHub/lost-shadow/LostShadow/Saved/YTWRZBMUE3AAK7KEBSZENW0FFC60BE4ECDDDE75A38638062F6956F.tmp' to '../../../../../../Users/Daniel/Documents/GitHub/lost-shadow/LostShadow/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/UC/YTWRZBMUE3AAK7KEBSZENW.uasset'
+[2024.11.13-00.42.52:312][303]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Edison/Animations/EdisonJump] ([1] browsable assets)...
+[2024.11.13-00.42.52:312][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Edison/Animations/EdisonJump]
+[2024.11.13-00.42.52:315][303]LogSavePackage: Moving output files for package: /Game/Characters/Edison/Animations/EdisonJump
+[2024.11.13-00.42.52:315][303]LogSavePackage: Moving '../../../../../../Users/Daniel/Documents/GitHub/lost-shadow/LostShadow/Saved/EdisonJumpE6AF52CC4DD5A2A16A49C4B84D2390D0.tmp' to '../../../../../../Users/Daniel/Documents/GitHub/lost-shadow/LostShadow/Content/Characters/Edison/Animations/EdisonJump.uasset'
+[2024.11.13-00.42.52:315][303]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Edison/Animations/EdisonLand] ([1] browsable assets)...
+[2024.11.13-00.42.52:315][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Edison/Animations/EdisonLand]
+[2024.11.13-00.42.52:318][303]LogSavePackage: Moving output files for package: /Game/Characters/Edison/Animations/EdisonLand
+[2024.11.13-00.42.52:318][303]LogSavePackage: Moving '../../../../../../Users/Daniel/Documents/GitHub/lost-shadow/LostShadow/Saved/EdisonLand045DC73E4A46E37851C691B6C6428F93.tmp' to '../../../../../../Users/Daniel/Documents/GitHub/lost-shadow/LostShadow/Content/Characters/Edison/Animations/EdisonLand.uasset'
+[2024.11.13-00.42.52:319][303]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Edison/Animations/EdisonPull] ([1] browsable assets)...
+[2024.11.13-00.42.52:319][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Edison/Animations/EdisonPull]
+[2024.11.13-00.42.52:322][303]LogSavePackage: Moving output files for package: /Game/Characters/Edison/Animations/EdisonPull
+[2024.11.13-00.42.52:322][303]LogSavePackage: Moving '../../../../../../Users/Daniel/Documents/GitHub/lost-shadow/LostShadow/Saved/EdisonPull09E9183D4C50911F5F745C9A1A122792.tmp' to '../../../../../../Users/Daniel/Documents/GitHub/lost-shadow/LostShadow/Content/Characters/Edison/Animations/EdisonPull.uasset'
+[2024.11.13-00.42.52:322][303]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Edison/Animations/EdisonPush] ([1] browsable assets)...
+[2024.11.13-00.42.52:322][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Edison/Animations/EdisonPush]
+[2024.11.13-00.42.52:325][303]LogSavePackage: Moving output files for package: /Game/Characters/Edison/Animations/EdisonPush
+[2024.11.13-00.42.52:325][303]LogSavePackage: Moving '../../../../../../Users/Daniel/Documents/GitHub/lost-shadow/LostShadow/Saved/EdisonPush07EBA314483ECFDE645E578A5598EB0E.tmp' to '../../../../../../Users/Daniel/Documents/GitHub/lost-shadow/LostShadow/Content/Characters/Edison/Animations/EdisonPush.uasset'
+[2024.11.13-00.42.52:326][303]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Edison/Animations/EdisonRun] ([1] browsable assets)...
+[2024.11.13-00.42.52:326][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Edison/Animations/EdisonRun]
+[2024.11.13-00.42.52:329][303]LogSavePackage: Moving output files for package: /Game/Characters/Edison/Animations/EdisonRun
+[2024.11.13-00.42.52:329][303]LogSavePackage: Moving '../../../../../../Users/Daniel/Documents/GitHub/lost-shadow/LostShadow/Saved/EdisonRun7BE892B9461BBA17BC678C87F6EF97B7.tmp' to '../../../../../../Users/Daniel/Documents/GitHub/lost-shadow/LostShadow/Content/Characters/Edison/Animations/EdisonRun.uasset'
+[2024.11.13-00.42.52:329][303]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Edison/Animations/EdisonWalk] ([1] browsable assets)...
+[2024.11.13-00.42.52:329][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Edison/Animations/EdisonWalk]
+[2024.11.13-00.42.52:332][303]LogSavePackage: Moving output files for package: /Game/Characters/Edison/Animations/EdisonWalk
+[2024.11.13-00.42.52:332][303]LogSavePackage: Moving '../../../../../../Users/Daniel/Documents/GitHub/lost-shadow/LostShadow/Saved/EdisonWalk0C6F04634F3CE4140297A68BBEF0ECB8.tmp' to '../../../../../../Users/Daniel/Documents/GitHub/lost-shadow/LostShadow/Content/Characters/Edison/Animations/EdisonWalk.uasset'
+[2024.11.13-00.42.52:345][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.750 ms (total: 468.679 ms)
+[2024.11.13-00.42.52:357][303]LogStall: Shutdown...
+[2024.11.13-00.42.52:362][303]LogStall: Shutdown complete.
+[2024.11.13-00.42.52:382][303]LogSlate: Window 'LostShadow - Unreal Editor' being destroyed
+[2024.11.13-00.42.52:455][303]LogContentValidation: Display: Starting to validate 7 assets
+[2024.11.13-00.42.52:455][303]LogContentValidation: Enabled validators:
+[2024.11.13-00.42.52:455][303]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.13-00.42.52:455][303]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.13-00.42.52:455][303]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.13-00.42.52:455][303]LogContentValidation: Display: Validating asset /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.11.13-00.42.52:455][303]AssetCheck: /Game/ThirdPerson/Maps/ThirdPersonMap Validating asset
+[2024.11.13-00.42.52:455][303]LogContentValidation: Display: Validating asset /Game/Characters/Edison/Animations/EdisonJump.EdisonJump
+[2024.11.13-00.42.52:455][303]AssetCheck: /Game/Characters/Edison/Animations/EdisonJump Validating asset
+[2024.11.13-00.42.52:455][303]LogContentValidation: Display: Validating asset /Game/Characters/Edison/Animations/EdisonLand.EdisonLand
+[2024.11.13-00.42.52:455][303]AssetCheck: /Game/Characters/Edison/Animations/EdisonLand Validating asset
+[2024.11.13-00.42.52:455][303]LogContentValidation: Display: Validating asset /Game/Characters/Edison/Animations/EdisonPull.EdisonPull
+[2024.11.13-00.42.52:455][303]AssetCheck: /Game/Characters/Edison/Animations/EdisonPull Validating asset
+[2024.11.13-00.42.52:455][303]LogContentValidation: Display: Validating asset /Game/Characters/Edison/Animations/EdisonPush.EdisonPush
+[2024.11.13-00.42.52:455][303]AssetCheck: /Game/Characters/Edison/Animations/EdisonPush Validating asset
+[2024.11.13-00.42.52:455][303]LogContentValidation: Display: Validating asset /Game/Characters/Edison/Animations/EdisonRun.EdisonRun
+[2024.11.13-00.42.52:455][303]AssetCheck: /Game/Characters/Edison/Animations/EdisonRun Validating asset
+[2024.11.13-00.42.52:455][303]LogContentValidation: Display: Validating asset /Game/Characters/Edison/Animations/EdisonWalk.EdisonWalk
+[2024.11.13-00.42.52:455][303]AssetCheck: /Game/Characters/Edison/Animations/EdisonWalk Validating asset
+[2024.11.13-00.42.52:459][303]Cmd: QUIT_EDITOR
+[2024.11.13-00.42.52:459][303]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.11.13-00.42.52:460][304]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.11.13-00.42.52:461][304]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.11.13-00.42.52:461][304]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.11.13-00.42.52:461][304]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.13-00.42.52:462][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.13-00.42.52:462][304]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2024.11.13-00.42.52:462][304]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.11.13-00.42.52:462][304]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.11.13-00.42.52:462][304]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.11.13-00.42.52:465][304]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.11.13-00.42.52:468][304]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.11.13-00.42.52:468][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.13-00.42.52:468][304]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.11.13-00.42.52:468][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.13-00.42.52:468][304]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.11.13-00.42.52:468][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.13-00.42.52:468][304]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.11.13-00.42.52:468][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.13-00.42.52:468][304]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.11.13-00.42.52:468][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.13-00.42.52:468][304]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.11.13-00.42.52:468][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.13-00.42.52:468][304]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.11.13-00.42.52:468][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.13-00.42.52:468][304]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.11.13-00.42.52:469][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.13-00.42.52:469][304]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.11.13-00.42.52:469][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.13-00.42.52:469][304]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.11.13-00.42.52:469][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.13-00.42.52:469][304]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.11.13-00.42.52:469][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.13-00.42.52:560][304]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.11.13-00.42.52:562][304]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.11.13-00.42.52:562][304]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.11.13-00.42.52:562][304]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.11.13-00.42.52:833][304]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.11.13-00.42.52:833][304]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.11.13-00.42.52:833][304]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2024.11.13-00.42.52:833][304]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.11.13-00.42.52:833][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.11.13-00.42.52:835][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.11.13-00.42.52:861][304]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.11.13-00.42.52:861][304]LogAudio: Display: Audio Device Manager Shutdown
+[2024.11.13-00.42.52:862][304]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.11.13-00.42.52:866][304]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.11.13-00.42.52:866][304]LogExit: Preparing to exit.
+[2024.11.13-00.42.52:884][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.11.13-00.42.53:895][304]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.11.13-00.42.53:915][304]LogExit: Editor shut down
+[2024.11.13-00.42.53:918][304]LogExit: Transaction tracking system shut down
+[2024.11.13-00.42.53:982][304]LogExit: Object subsystem successfully closed.
+[2024.11.13-00.42.54:059][304]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.11.13-00.42.54:789][304]MemoryProfiler: Shutdown
+[2024.11.13-00.42.54:789][304]NetworkingProfiler: Shutdown
+[2024.11.13-00.42.54:790][304]LoadingProfiler: Shutdown
+[2024.11.13-00.42.54:790][304]TimingProfiler: Shutdown
+[2024.11.13-00.42.54:881][304]LogOpenImageDenoise: OIDN shutting down
+[2024.11.13-00.42.55:137][304]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.11.13-00.42.55:163][304]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.11.13-00.42.55:163][304]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBFC3C8BB-429D-F11E-5ECB-A3A434D7B332%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=ce7adeb14f285f4bc6888daf364290e5%7Cbd8374c2ccec4db1ae09c51792268e0a%7Cfee384a6-f840-456a-8f70-29519f616991&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.11.13-00.42.55:177][304]RenderDocPlugin: plugin has been unloaded.
+[2024.11.13-00.42.55:186][304]LogXGEController: Cleaning working directory: C:/Users/Daniel/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.11.13-00.42.55:187][304]LogPakFile: Destroying PakPlatformFile
+[2024.11.13-00.42.55:330][304]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.11.13-00.42.55:357][304]LogExit: Exiting.
+[2024.11.13-00.42.55:373][304]Log file closed, 11/12/24 19:42:55
